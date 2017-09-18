@@ -1,4 +1,4 @@
-# touchscreen mapping for three touchscreens
+# touchscreen mapping for two touchscreens
 # more info at http://discourse.ubuntu.com/t/dual-touch-screen-monitors-working-on-14-04/1675
 # to find mapping
 xrandr
